@@ -1,0 +1,9 @@
+## Watermarking Desktop App
+
+### How to run
+1. Clone the repository
+2. Create virtual environment
+3. Install dependencies:
+   pip install pillow
+4. Run:
+   python WatermarkApp.py
